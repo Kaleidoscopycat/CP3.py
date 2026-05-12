@@ -15,4 +15,12 @@ salvando em arquivos.
 podendo ser uma interface de linha de comando ou uma interface gráfica.
 Além das funcionalidades básicas mencionadas acima, o sistema pode ser expandido para incluir
 outras funcionalidades, como a capacidade de lidar com tarefas recorrentes, prioridades,
-categorias, etc. 
+categorias, etc.
+
+A estrutura do projeto poderia ser dividida em módulos separados para cada funcionalidade, com
+funções específicas para cada parte do sistema. Por exemplo:
+• tarefas.py: Contém as funções para cadastrar, listar, atualizar e remover tarefas.
+• persistencia.py: Contém as funções para salvar e carregar tarefas de um arquivo ou banco de
+dados.
+• interface.py: Contém a interface de usuário para interagir com o sistema.
+Os grupos podem ter até 4 pessoas.
