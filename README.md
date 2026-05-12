@@ -23,4 +23,3 @@ funções específicas para cada parte do sistema. Por exemplo:
 • persistencia.py: Contém as funções para salvar e carregar tarefas de um arquivo ou banco de
 dados.
 • interface.py: Contém a interface de usuário para interagir com o sistema.
-Os grupos podem ter até 4 pessoas.
